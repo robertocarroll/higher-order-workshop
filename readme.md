@@ -34,34 +34,12 @@ git push -u origin main
 then move onto the next test! However you don't need to do it for this exercise, since we're just getting started and haven't made any changes!
 
 ## Process
-### Clone
-#### To Desktop:
-Open a terminal using your terminal (Mac/Linux) or Git Bash (Windows). If you are using VS Code, this can be done using 
-``` Ctrl-Shift-` ``` (win/linux) or ```Cmd-Shift-` ``` (mac). Navigate to the correct directory and type 
-```
-git clone https://github.com/<your handle>/workshop_01_exampleTemplate 
-```
-replacing ``<your handle>`` with your github handle.
 
-#### In repl . it
-Go to repl.it, click the blue button at the the top, choose 'Import from Repl' and paste in the following link : ```github.com/<your handle>/workshop_01_exampleTemplate```
-replacing ``<your handle>`` with your github handle.
-
-
-### Accessing the code
-#### Desktop
-Navigate to the folder using 
-```
-cd workshop_01_exampleTemplate
-```
-You can also use ``` cd w``` and press tab
-once you are in this folder, though you might have to specify a number and hit tab again (it only autocompletes what it can be sure of).
-Then type ```code .``` to open your VS Code editor.
-
-The code will be under the 'code folder' visible to the left - exercises are numbered.
+#### Locally from Github
+Download or clone the repo 
 
 #### Replit
-The code will be under the **code** folder visible to the left - exercises are numbered.
+Import code from Github. The code will be under the **code** folder visible to the left - exercises are numbered.
 
 ### Running the tests
 In order to setup the tests you will need to type :

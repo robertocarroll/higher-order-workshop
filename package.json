@@ -1,0 +1,16 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "testing template",
+  "main": "notthis.js",
+  "scripts": {
+    "start": "echo \"that won't work here, try npm test\" ",
+    "test": "mocha test"
+  },
+  "author": "casper@ada.ac.uk",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1"
+  }
+}
